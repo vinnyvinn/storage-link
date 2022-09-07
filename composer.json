@@ -1,0 +1,24 @@
+{
+    "name": "vinnyvinny/storage-link",
+    "autoload": {
+        "psr-4": {
+            "Vinnyvinny\\StorageLink\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinnyvinn",
+            "email": "kituyiv@gmail.com"
+        }
+    ],
+    "require": {
+        "orchestra/testbench": "^6.25"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vinnyvinny\\StorageLink\\StorageLinkServiceProvider"
+            ]
+        }
+    }
+}
