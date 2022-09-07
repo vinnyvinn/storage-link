@@ -1,6 +1,6 @@
 <?php
 
-namespace Vinnyvinny\StorageLink;
+namespace Vinnyvinn\StorageLink;
 
 use Illuminate\Support\ServiceProvider;
 

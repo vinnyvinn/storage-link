@@ -1,6 +1,6 @@
 <?php
 
-namespace Vinnyvinny\StorageLink\Http\Controllers;
+namespace Vinnyvinn\StorageLink\Http\Controllers;
 
 class StorageLinkController
 {
